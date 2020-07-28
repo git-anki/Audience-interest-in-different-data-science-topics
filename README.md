@@ -2,12 +2,12 @@
 
 A survey was conducted to gauge an audience interest in different data science topics, namely:
 
-Big Data (Spark / Hadoop)
-Data Analysis / Statistics
-Data Journalism
-Data Visualization
-Deep Learning
-Machine Learning
+1. Big Data (Spark / Hadoop)
+2. Data Analysis / Statistics
+3. Data Journalism
+4. Data Visualization
+5. Deep Learning
+6. Machine Learning
 The participants had three options for each topic: Very Interested, Somewhat interested, and Not interested. 2,233 respondents completed the survey.
 
 
